@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Hello world",
+    "content": "There are should be some text and minds maybe",
+    "published": "14.10.1998"
+  },
+  {
+    "id": "8de63444-f03a-4343-83eb-ddb032b4e145",
+    "title": "Hello world",
+    "content": "Hello from Node Js. this is first blog from new gen of Node",
+    "published": "24.03.2025"
+  },
+  {
+    "id": "fc63381b-395d-4b09-8a8b-410a2c1fc34c",
+    "title": "Hello world",
+    "content": "Hello from Node Js. this is first blog from new gen of Node",
+    "published": "24.03.2025"
+  },
+  {
+    "id": "448d572e-531f-40f1-9df6-b1abec8f6608",
+    "title": "Hello world",
+    "content": "Hello from Node Js. this is first blog from new gen of Node",
+    "published": "24.03.2025"
+  },
+  {
+    "id": "6d9bc1b9-6ee5-4281-8213-455cd32cdba0",
+    "title": "Hello world",
+    "content": "Hello from Node Js. this is first blog from new gen of Node",
+    "published": "24.03.2025"
+  }
+]
